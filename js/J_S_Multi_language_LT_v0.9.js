@@ -173,15 +173,15 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_bloghub').innerHTML = arr[lang_index].lang_bloghub;
   document.getElementById('lang_blogmita').innerHTML = arr[lang_index].lang_blogmita;
   document.getElementById('lang_blog01').innerHTML = arr[lang_index].lang_blog01;
-  document.getElementById('lang_btnmore').innerHTML = arr[lang_index].lang_btnmore;
+  document.getElementById('lang_btnmore01').innerHTML = arr[lang_index].lang_btnmore;
   document.getElementById('lang_blogpc').innerHTML = arr[lang_index].lang_blogpc;
   document.getElementById('lang_blogkoli').innerHTML = arr[lang_index].lang_blogkoli;
   document.getElementById('lang_blog02').innerHTML = arr[lang_index].lang_blog02;
-  document.getElementById('lang_btnmore').innerHTML = arr[lang_index].lang_btnmore;
+  document.getElementById('lang_btnmore02').innerHTML = arr[lang_index].lang_btnmore;
   document.getElementById('lang_blogmask').innerHTML = arr[lang_index].lang_mediapost05;
   document.getElementById('lang_blogvoce').innerHTML = arr[lang_index].lang_media06;
   document.getElementById('lang_blog03').innerHTML = arr[lang_index].lang_mediapost06;
-  document.getElementById('lang_btnmore').innerHTML = arr[lang_index].lang_btnmore;
+  document.getElementById('lang_btnmore03').innerHTML = arr[lang_index].lang_btnmore;
 
   return;
 }
