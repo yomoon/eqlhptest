@@ -40,15 +40,15 @@
       "lang_bloghub": "智能小管家",
       "lang_blogmita": "部落客-Mita",
       "lang_blog01": "沒有想到EQL智能小管家,操作簡單容易上手,家裡的老爸老媽教一次就會了~真正做到節能減碳救地球!",
-      "lang_btnmore": "了解更多",
+      "lang_btnmore01”: "了解更多",
       "lang_blogpc": "PC Stick",
       "lang_blogkoli": "原價屋-Koli",
       "lang_blog02": "自從買的PC Stick之後,告別揹筆電的辛苦. 到客戶那邊只要透過HDMI連接螢幕就可以馬上報告. 真是大大的減輕負擔壓~",
-      "lang_btnmore": "了解更多",
+      "lang_btnmore02”: "了解更多",
       "lang_blogmask": "極光美肌儀",
       "lang_blogvoce": "觀玲老師",
       "lang_blog03": "最近朋友說我膚色越來越好..AURO LED面膜真是幫我省下打脈衝光的費用~",
-      "lang_btnmore": "了解更多"
+      "lang_btnmore03”: "了解更多"
    },
    {
       "lang_navabout": "About Us",
@@ -91,14 +91,14 @@
       "lang_bloghub": “Ripple Control”,
       "lang_blogmita": "SMAhome Magazine",
       "lang_blog01": "EQL Ripple can talk with many appliances, and perform scheduled tasks or event-oriented controls.",
-      "lang_btnmore": “More”,
+      "lang_btnmore01”: “More”,
       "lang_blogpc": "PC Stick",
       "lang_blogkoli": "Blogger Koli",
       "lang_blog02": "EQL PC Stick offers a desktop experience within a tiny package; so amazing!",
-      "lang_btnmore": “More”,
+      "lang_btnmore02”: “More”,
       "lang_blogmask": “Auro Mask”,
       "lang_blogvoce": "VoCE Magazine",
       "lang_blog03": "Auro Mask is revolutionizing how we care skin at home",
-      "lang_btnmore": “More”
+      "lang_btnmore03”: “More”
    }
 ]
